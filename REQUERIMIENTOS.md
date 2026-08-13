@@ -25,9 +25,10 @@ Resuelve la falta de organización cotidiana al permitir centralizar los pendien
 - **Detalle -> Lista:** Al pulsar el botón *"Regresar"* en `DetalleScreen`, se retrocede en la pila de navegación de vuelta a `ListaScreen`.
 
 ## 6. Capturas de pantalla
-<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/a3724945-8d66-447c-ab82-f49e4d923a38" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/0cf7e2b9-1b84-4abf-a71f-00f06e2333b9" />
 
-<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed8e63ff-9d57-4af4-abee-36d7a52c1899" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/bf06160f-12e8-4a98-9e59-cf52f13116a8" />
+
 
 <img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/07cd412e-66b8-4fa0-a728-90f8d9f13120" />
 
